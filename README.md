@@ -1,387 +1,131 @@
 # Hi, I'm Muhammad Sajid Shah 👋
 
-### Full-Stack Web Developer | React | Next.js | AI-Powered Applications
+### Full-Stack Web Developer | Next.js | React | TypeScript | AI-Powered Apps
 
-I'm a full-stack web developer and the founder of **MWT Labs**. I build modern, responsive, and user-friendly web applications with a focus on performance, practical functionality, and clean user experiences.
+I'm a Full-Stack Web Developer and the founder of **MWT Labs**.
 
-I work with modern web technologies to develop AI-powered applications, productivity tools, and full-stack platforms.
+I build modern, fast, and mobile-friendly websites and web applications. I enjoy creating useful digital products that solve real problems and make work easier.
 
-**I build fast, easy-to-use websites and web apps through MWT Labs. I use AI-assisted coding to deliver quickly without cutting corners on quality. My work is simple, secure, and made to help your business grow.**
+I can build different types of websites and applications, such as:
 
-I can build any kind of website to help your business grow — whether it's a doctor appointment booking system, an e-commerce store, or any other full-stack application. I also build portfolio websites and landing pages. I create full-stack applications using Next.js, and I write AI assistants and feature-based, maintainable code that you can easily expand and add new features to in the future.
+- Business and company websites
+- E-commerce stores
+- Booking and appointment systems
+- Portfolio websites
+- Landing pages
+- Custom web applications
+
+I use modern technologies like **Next.js, React, TypeScript, Node.js, and PostgreSQL** to build reliable and easy-to-manage applications.
+
+### 🤖 How I Use AI in Development
+
+I also use AI tools like **Google Gemini and GitHub Copilot** to help me write, improve, and understand code. These tools help me develop applications faster and save time.
+
+AI helps with coding, but I review, test, and improve the code myself to make sure the final application works properly.
+
+### 💼 Work With Me
+
+Need a website or a complete web application for your business?
+
+I can help you build it at a **reasonable and affordable price**. My goal is to provide good-quality work at prices that are easy to manage.
+
+Visit my portfolio to see my work and contact me about your project.
+
+🌐 **Portfolio:** https://portfolio.mwtlabs.uk/
 
 ---
 
 ## 🚀 My Projects
 
-Here are some of the applications I've designed and developed.
+Here are some of the projects I have built.
 
----
+### 1. MWT Portfolio – Personal Portfolio & Admin Dashboard
 
-### 1. MWT Portfolio – Full-Stack Web Development
+A full-stack portfolio website where visitors can view my work, services, skills, and blog posts. They can also contact me for projects and services.
 
-A modern, full-stack portfolio platform built with **Next.js, TypeScript, PostgreSQL (Neon), Better Auth, Resend, and ImageKit**. It features a dynamic portfolio, blog, project showcase, service listings, client inquiries, and a powerful admin dashboard with media library management.
+It also has an admin dashboard where I can manage website content, projects, services, blog posts, messages, and images.
 
-I build modern, responsive, and scalable web applications tailored to your needs — offering professional quality at **affordable prices**.
+**Technologies:** Next.js, TypeScript, PostgreSQL, Neon, Better Auth, Resend, ImageKit.
 
-**Technologies:** Next.js · TypeScript · PostgreSQL · Neon · Better Auth · Resend · ImageKit
+🌐 **Website:** https://portfolio.mwtlabs.uk/
 
-🌐 **Explore my portfolio:** https://portfolio.mwtlabs.uk/
+### 2. Procho – AI Image Editor
 
-💼 **Need a website or full-stack application?** Visit my portfolio and get in touch to discuss your project.
+Procho is a free online image editor with AI features. Users can remove image backgrounds, edit photos, add text, work with layers, and create designs.
 
----
+It is useful for YouTube thumbnails, social media posts, product images, and other graphic designs. AI image processing runs directly in the browser.
 
-### 2. MWT Voice — AI Text-to-Speech & Voice Cloning Studio
+**Key Features:**
+- AI background removal using BiRefNet.
+- Image editing and background replacement.
+- Text, shapes, and design tools.
+- Layers and visual effects.
+- YouTube thumbnail and social media designs.
+- Image export.
 
-**MWT Voice** is a free, browser-based AI voice generation and audio production application developed by MWT Labs. It transforms written text into natural-sounding speech using multiple neural text-to-speech models, with support for multilingual voice generation, zero-shot voice cloning, and multi-speaker conversations.
+🌐 **Website:** https://procho.mwtlabs.uk/
 
-Built with a privacy-first, offline-capable architecture, MWT Voice performs AI inference directly on the user's device instead of relying on remote cloud processing servers.
+### 3. MWT Voice – AI Text-to-Speech & Voice Cloning
 
-🔗 **Live Application:** https://voice.mwtlabs.uk/
+MWT Voice is an AI voice application that converts written text into speech. It also supports voice cloning and audio editing.
 
-#### 🤖 AI Voice Engines & Models
+Users can choose different AI voice models, create voice recordings, and generate audio directly in their browser.
 
-MWT Voice integrates three different AI-powered neural speech synthesis engines, allowing users to choose the best balance between voice quality, performance, hardware requirements, and functionality.
+**AI Models:** Kokoro TTS, Kitten TTS, Pocket TTS.
 
-**1. Kokoro TTS**
-- Neural text-to-speech engine with natural-sounding speech generation.
-- 54 expressive male and female voices.
-- Supports 8 languages.
-- Includes American and British English voices.
-- Supports Spanish, French, Italian, Brazilian Portuguese, Hindi, Mandarin Chinese, and Japanese.
-- Suitable for long-form narration, audiobooks, YouTube videos, and podcasts.
-- Runs locally in the browser after downloading the model.
+**Key Features:**
+- Convert text into natural-sounding speech.
+- AI voice cloning.
+- Multiple voices and languages.
+- Create conversations with different voices.
+- Audio editing and merging.
+- Convert audio and video files.
+- Download audio as MP3 or WAV.
+- Offline support after downloading the required models.
 
-**2. Kitten TTS**
-- Lightweight neural text-to-speech engine.
-- Includes 8 expressive English voices.
-- Optimized for low-resource devices, mobile phones, and standard laptops.
-- Compact model package of approximately 60 MB.
-- Fast initialization and lightweight speech generation.
-- Supports fully offline speech synthesis after downloading the model.
+🌐 **Website:** https://voice.mwtlabs.uk/
 
-**3. Pocket TTS — AI Voice Cloning**
-- Compact neural speech synthesis engine with approximately 35 million parameters.
-- Supports zero-shot voice cloning.
-- Clone voices using microphone recordings or uploaded audio files.
-- Includes 8 built-in voice profiles.
-- Supports unlimited locally stored custom voice profiles.
-- Uses ONNX-based neural inference for browser execution.
-- Generates speech using cloned voice characteristics without requiring cloud-based voice processing.
-- Approximately 189.5 MB combined model and voice package.
+### 4. MWT Labs – Free Online Utility Tools
 
-#### 🎙️ Voice Cloning & Conversation Studio
+MWT Labs provides a collection of free online tools for everyday tasks. Users can work with files, images, text, JSON, and other data directly in their browser.
 
-- Clone voices from short audio recordings.
-- Record voice samples directly through a microphone.
-- Upload existing audio files for voice cloning.
-- Create custom voice profiles.
-- Generate multi-speaker conversations.
-- Assign different voices to individual speakers.
-- Create podcast-style dialogues and conversational audio.
-- Save and reuse conversation configurations locally.
+No software installation is needed for these tools.
 
-#### 🌍 Multilingual Voice Generation
+**Tool Categories:**
+- PDF Tools
+- Image Tools
+- JSON Tools
+- QR Code Tools
+- Barcode Tools
+- Color Tools
+- Text Tools
+- Developer Tools
+- Calculators
 
-Kokoro TTS provides multilingual speech generation across 8 languages, with a selection of American and British English voices.
-
-Users can select their preferred language and voice, adjust speaking speed, and generate speech directly in their browser.
-
-#### 🎧 Audio Generation & Export
-
-- Natural AI speech synthesis.
-- Built-in audio playback.
-- Adjustable speech speed (0.5x–2.0x).
-- Generate single-speaker narration.
-- Generate multi-speaker dialogue.
-- Export generated audio in MP3 format.
-- Export uncompressed WAV audio.
-- Start, stop, and cancel generation.
-- Locally manage generated audio and voice assets.
-
-#### 🎛️ MWT Audio Studio
-
-MWT Voice also includes browser-based audio production tools:
-
-**Audio Editor**
-- Waveform-based audio editing.
-- Trim and split audio clips.
-- Reverse audio.
-- Apply fades and normalization.
-- Adjust pitch and formants.
-- Voice-changing effects and audio enhancement.
-
-**Audio Merger**
-- Combine multiple audio files.
-- Reorder audio clips.
-- Configure silence gaps between clips.
-- Preview and export merged audio.
-
-**Audio & Media Converter**
-- Convert WAV to MP3 and MP3 to WAV.
-- Extract audio tracks from MP4 and WebM videos.
-- Configure audio bitrate up to 320 kbps.
-- Export processed audio directly from the browser.
-
-#### 🔒 Privacy-First & Offline Architecture
-
-Privacy and local processing are fundamental parts of MWT Voice.
-
-- AI speech generation runs directly on the user's device.
-- No remote server inference is required for local TTS.
-- Text scripts are not uploaded for speech generation.
-- Voice recordings and cloning samples are processed locally.
-- Models and voice assets are stored locally in browser storage.
-- Users can download, manage, cancel, and delete AI models.
-- Core features work offline after the application and required models have been downloaded.
-- No account registration or subscription is required.
-
-#### 📱 Progressive Web Application (PWA)
-
-- Installable browser-based application.
-- Desktop, laptop, and mobile support.
-- Offline access after initial setup.
-- Locally cached AI models and application resources.
-- No separate desktop software installation required.
-
-#### 🎯 Use Cases
-
-- YouTube video narration and voiceovers.
-- AI-generated podcasts.
-- Multi-character storytelling.
-- Audiobooks and educational content.
-- E-learning and online courses.
-- Text-to-speech accessibility.
-- Voice cloning and custom narration.
-- Audio editing and production.
-- Audio format conversion and extraction.
-
-#### 🛠️ Technology & AI Architecture
-
-| Component | Technology |
-|---|---|
-| Platform | Browser-Based Web Application |
-| AI Speech Models | Kokoro TTS, Kitten TTS, Pocket TTS |
-| AI Inference | ONNX Runtime Web and browser-based model execution |
-| Voice Cloning | Pocket TTS Zero-Shot Voice Cloning |
-| Audio Processing | Client-Side Audio Processing |
-| Model Storage | Local Browser Storage |
-| Application Type | Progressive Web App (PWA) |
-| Audio Export | MP3 and WAV |
-| Processing | On-Device / Client-Side |
-
-**Developed by [MWT Labs](https://mwtlabs.uk/)**
-
-MWT Voice brings AI-powered speech synthesis, voice cloning, and audio production together in one privacy-focused browser application.
-
----
-
-### 3. MWT Labs — Online Utility Tools
-
-**MWT Labs** is a collection of free, fast, and privacy-focused online utilities developed to simplify everyday digital tasks. It provides a comprehensive suite of browser-based tools for developers, designers, students, and general users.
-
-The platform focuses on simplicity, performance, and privacy, offering multiple utilities that work directly in the browser without requiring software installation or user registration.
-
-🔗 **Live Website:** https://mwtlabs.uk/
-
-#### ✨ Tool Categories & Features
-
-**1. PDF Tools**
-- Merge multiple PDF documents.
-- Split PDF files into separate pages.
-- Compress PDF documents.
-- Convert and manage PDF files.
-
-**2. Image Tools**
-- Resize images to custom dimensions.
-- Compress images while maintaining quality.
-- Convert images between supported formats.
-
-**3. JSON Utilities**
-- JSON Formatter and Beautifier.
-- JSON Validator.
-- JSON Minifier.
-- JSON to CSV conversion.
-- CSV to JSON conversion.
-- JSON Tree Viewer.
-- JSON Escape and Unescape.
-- Additional JSON development utilities.
-
-**4. QR Code & Barcode Tools**
-- Generate custom QR codes.
-- Scan and decode QR codes.
-- Generate barcodes for different use cases.
-
-**5. Color Tools**
-- Color picker and color conversion utilities.
-- Work with HEX, RGB, and other supported color formats.
-
-**6. Text Utilities**
-- Text formatting and manipulation.
-- Word and character counting.
-- Additional text productivity utilities.
-
-**7. Developer Utilities**
-- Useful browser-based tools for developers.
-- Data formatting and conversion.
-- Everyday programming and debugging assistance.
-
-**8. Calculators**
-- Age Calculator.
-- Percentage Calculator.
-- Date and time calculations.
-- Mathematical and everyday productivity calculators.
-
-#### 🔒 Privacy-First Architecture
-
-Privacy is one of the core principles of MWT Labs.
-
-- Client-side processing for supported tools.
-- Files are processed locally in the browser wherever supported.
-- No unnecessary file uploads to external servers.
-- No account registration required for using the tools.
-- Fast processing without waiting for server-side operations.
-- Designed to minimize data exposure and protect user privacy.
-
-#### ⚡ Key Platform Features
-
+**Key Features:**
 - 30+ free online tools.
-- Multiple utility categories in one platform.
-- Mobile-first responsive interface.
-- Light and dark theme support.
+- Simple and easy-to-use interface.
+- Mobile-friendly design.
+- Light and dark themes.
 - Fast browser-based processing.
-- No software installation required.
-- Simple and user-friendly interface.
-- SEO-friendly individual tool pages.
-- Accessible across desktop, tablet, and mobile devices.
+- Privacy-focused tools.
 
-#### 🛠️ Technology & Architecture
-
-| Component | Description |
-|---|---|
-| Platform | Browser-Based Web Application |
-| Processing | Client-Side Processing |
-| Categories | PDF, Image, JSON, QR, Barcode, Color, Text, Developer, Calculator |
-| Tools | 30+ Utilities |
-| Interface | Responsive UI |
-| Theme | Light & Dark Mode |
-| Privacy | Local Processing Where Supported |
-| Accessibility | Desktop, Tablet & Mobile |
-
-#### 🎯 Target Users
-
-- Web developers and programmers.
-- Graphic designers and content creators.
-- Students and educators.
-- Business owners and professionals.
-- Anyone who needs quick online utilities.
-
-**Developed by [MWT Labs](https://mwtlabs.uk/)**
-
-MWT Labs brings essential online utilities together in one convenient, privacy-focused platform, making everyday digital tasks faster and easier.
+🌐 **Website:** https://mwtlabs.uk/
 
 ---
 
-### 4. Procho – AI-Powered Image Editor
+## 🛠️ Technologies I Use
 
-**Live Website:** https://procho.mwtlabs.uk/
-
-Procho is a free, browser-based image editing and graphic design application developed by **MWT Labs**. It provides a powerful creative workspace for editing photos, designing YouTube thumbnails, creating social media graphics, and preparing professional e-commerce product images.
-
-Unlike traditional online editors, Procho integrates on-device AI models for intelligent background removal and subject segmentation, allowing users to edit images directly in their browser without uploading their photos to external servers.
-
-#### ✨ Key Features
-
-- **AI Background Removal:** Automatically detects and separates foreground subjects from image backgrounds.
-- **AI-Powered Subject Segmentation:** Uses advanced neural network models, including BiRefNet, for accurate subject isolation.
-- **Dual AI Models:** Integrates two on-device AI models for background removal and subject segmentation.
-- **Advanced Layer System:** Supports 8 specialized layer types for flexible image composition.
-- **GPU-Accelerated Effects:** Includes 15 visual effects for creative image enhancement.
-- **Text & Typography:** Add customizable text, headings, outlines, shadows, and modern typography.
-- **YouTube Thumbnail Maker:** Create professional thumbnails with a dedicated 16:9 canvas.
-- **Social Media Graphics:** Design posts, stories, banners, and promotional graphics.
-- **E-commerce Image Editing:** Create clean product images with background replacement, white backdrops, and shadows.
-- **Batch Image Processing:** Import and work with multiple images.
-- **High-Resolution Export:** Export watermark-free designs in PNG, JPG, and PDF formats.
-- **PWA Support:** Designed for cross-platform browser and mobile experiences.
-
-#### 🤖 AI & Machine Learning
-
-Procho integrates modern AI-powered image segmentation technology to make background removal fast and accessible.
-
-**BiRefNet (Bilateral Reference Network)**
-
-BiRefNet is an advanced image segmentation architecture designed for high-quality foreground and background separation. It helps identify complex object boundaries and preserve fine details when isolating subjects from images.
-
-**Dual On-Device AI Architecture**
-
-Procho features two AI models for intelligent subject isolation and background removal. Both models are designed to run locally in the browser, reducing dependence on remote processing services.
-
-#### 🔒 Privacy & Local Processing
-
-Privacy is a core part of Procho's architecture.
-
-- Images are processed locally in the browser.
-- No remote image uploads are required.
-- AI background removal runs on the user's device.
-- No account or registration is required.
-- Local processing helps protect personal and commercial images.
-- Offline-ready capabilities are supported after the required application resources and models are available.
-
-#### 🛠️ Creative Tools
-
-- Image editing and composition
-- Background removal and replacement
-- Shapes and design elements
-- Advanced text styling
-- Layer management and positioning
-- Color adjustments and visual effects
-- Templates and canvas presets
-- Product photography tools
-- QR code and barcode generation
-
-#### 🎯 Use Cases
-
-- YouTube thumbnails and video graphics
-- E-commerce product photography
-- Instagram and social media designs
-- Marketing banners and advertisements
-- Promotional posters and flyers
-- Product showcases and presentations
-
-#### 🌐 Project Highlights
-
-| Feature | Description |
-|---|---|
-| Platform | Browser-Based Web Application |
-| AI Technology | BiRefNet & Dual AI Models |
-| Processing | On-Device AI Processing |
-| Layer System | 8 Specialized Layer Types |
-| Visual Effects | 15 GPU Effects |
-| Studio Tools | 20+ Creative Tools |
-| Export | PNG, JPG, PDF |
-| Privacy | Zero Server Image Uploads |
-| Pricing | Free |
-| Account | No Registration Required |
-
----
-
-**Developed by [MWT Labs](https://mwtlabs.uk/)**
-
-Website: https://procho.mwtlabs.uk
-
----
-
-## 🛠️ Technologies & Tools
-
-- **Frontend:** React, Next.js, TypeScript, JavaScript
+- **Frontend:** Next.js, React, TypeScript, JavaScript
 - **Backend:** Node.js, REST APIs
-- **Database:** PostgreSQL
+- **Database:** PostgreSQL, Neon
+- **Authentication:** Better Auth
+- **Email:** Resend
+- **Media Storage:** ImageKit
 - **State Management:** Redux Toolkit
 - **Styling:** CSS, Tailwind CSS
-- **Tools:** Git, GitHub, VS Code
-- **AI Integration:** Browser-based AI and machine learning technologies
+- **AI Coding Tools:** Google Gemini, GitHub Copilot
+- **Development Tools:** Git, GitHub, VS Code
 
 ---
 
@@ -389,14 +133,16 @@ Website: https://procho.mwtlabs.uk
 
 - **Portfolio:** https://portfolio.mwtlabs.uk/
 - **MWT Labs:** https://mwtlabs.uk/
-- **GitHub:** https://github.com/thesajidweb
+- **GitHub:** https://github.com/thesajidweb/
 
 ---
 
-### 💡 About My Work
+## 💬 Let's Build Something Together!
 
-I enjoy building useful web applications, solving real-world problems, and continuously improving my development skills.
+Have an idea for a website or application?
 
-**Building practical digital solutions with modern web technologies.**
+I would be happy to help you turn your idea into a working product. I offer modern development, useful features, and affordable pricing.
 
-⭐ Thanks for visiting my profile!
+**Feel free to visit my portfolio and contact me for your next project.**
+
+⭐ Thanks for visiting my GitHub profile!
